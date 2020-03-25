@@ -1,0 +1,45 @@
+.icon {
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
+    flex-shrink: 0;
+    position: relative;
+    vertical-align: middle;
+}
+
+.icon svg {
+    flex-shrink: 0;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+}
+
+.icon--size-100 {
+    width: 24px;
+    height: 24px;
+}
+
+.icon--size-200 {
+    width: 36px;
+    height: 36px;
+}
+
+.icon--size-300 {
+    width: 48px;
+    height: 48px;
+}
+
+.icon--color-light {
+    fill: lightblue;
+}
+
+.icon--color-dark {
+    fill: darkblue;
+}
+
+.icon--color-accent {
+    fill: lightcoral;
+}
