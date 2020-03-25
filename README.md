@@ -1,4 +1,4 @@
-# how-to-delivery-svg-icons-to-react
+# how-to-deliver-svg-icons-to-react
 Learn how to deliver SVG icons to React using Figma API
 
 Code implementations for automare delivery svg icons from Figma to React project. 
