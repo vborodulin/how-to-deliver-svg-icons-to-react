@@ -1,0 +1,11 @@
+{
+  "name": "figma-imports",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.19.2",
+    "change-case": "4.1.1",
+    "dotenv": "8.2.0"
+  }
+}
