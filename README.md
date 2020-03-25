@@ -9,7 +9,7 @@ For more information you can read [my article](https://medium.com/learn-svg-to-r
 
 ## Try yourself 
 
-ou can clone the repo and try the example on your Figma project.
+You can clone the repo and try the example on your Figma project.
 
 #### 1. Create frame with icons
 All icons should be palced in one specific frame and implements like a figma component.
